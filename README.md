@@ -1,5 +1,8 @@
 # Portfolio
 
+Hi, my name is Mike and I'm a master's student in Business Analytics at Southern Utah University. I am an aspiring data scientist with a business mindset to drive strategic outcomes with data. Known for the ability to solve complex problems through analytical thinking and identify opportunities.
+
+**Technical skills**: Python, SQL, Bigquery, Tableau, JIRA, Microsoft Office, Pandas
 This is my portfolio of some of the Data Analytics project I have completed
 
 ## Data Analysis with Python and SQL
