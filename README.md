@@ -11,3 +11,6 @@ This is my portfolio of some of the Data Analytics project I have completed
 [link to project](https://github.com/musasmike/Portfolio/blob/main/Online%20Ticket%20Sales/notebook.ipynb)
 
 ## Data Visualization with Tableau
+
+- **CO2 Emissions for Canadian Vehicles in 2022:**
+[link to project](https://public.tableau.com/views/CO2EmissionsforCanadianVehiclesin2022/Dashboard-CanadianCarsCO2Emissions?:language=en-US&:display_count=n&:origin=viz_share_link)
